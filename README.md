@@ -26,9 +26,6 @@ To run this application locally, follow these steps:
 3. Build and run the application using IntelliJ IDEA or Maven.
 4. Access the application by visiting `http://localhost:8080` in your web browser.
 
-## Contribution
-
-Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
